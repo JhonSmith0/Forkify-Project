@@ -1,0 +1,7 @@
+conteudo.js
+planning.txt
+questoes.txt
+.parcel-cache/
+node_modules/
+dist/
+package-lock.json

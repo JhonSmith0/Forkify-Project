@@ -1,0 +1,43 @@
+@import "base";
+@import "components";
+@import "header";
+@import "preview";
+@import "searchResults";
+@import "recipe";
+@import "upload";
+
+.loading {
+  animation-name: spin;
+  animation-duration: 2300ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+
+  width: 5rem;
+  aspect-ratio: 1;
+
+  fill: #fbdb89;
+
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 99;
+}
+
+.relative {
+  position: relative;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.hidden {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
