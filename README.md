@@ -1,8 +1,8 @@
-### <a href="https://forkifyjhonsmith.netlify.app/">Forkify-Project</a>
+# <a href="https://forkifyjhonsmith.netlify.app/">Forkify-Project</a>
 
-# This project was made while i was doing Jonas Schmedtmann javascript course.
+### This project was made while i was doing Jonas Schmedtmann javascript course.
 
-# Architecture: MVC
+### Architecture: MVC
 
 ### How to run it ?
 
