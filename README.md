@@ -7,8 +7,8 @@
 ### How to run it ?
 
 ```sh
-$ git clone https://github.com/JhonSmith0/Forkify-Project.git
-$ cd Forkify-Project
-$ npm i
-$ npm start
+git clone https://github.com/JhonSmith0/Forkify-Project.git
+cd Forkify-Project
+npm i
+npm start
 ```
